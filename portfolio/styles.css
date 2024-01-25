@@ -28,7 +28,7 @@ body{
 }
 
 section{
-    padding: 6rem;
+    padding: 6rem 0;
 }
 
 a{
@@ -512,6 +512,7 @@ input[type="submit"]:hover{
     border-radius: 100%;
     display: flex;
     animation: pulse 2s infinite;
+    cursor: pointer;
 }
 
 .up i{
